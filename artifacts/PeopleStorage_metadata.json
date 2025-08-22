@@ -106,7 +106,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Basic Solidity/contracts/PeopleStorage.sol": "SimpleStorage"
+			"Basic Solidity/contracts/PeopleStorage.sol": "PeopleStorage"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -121,11 +121,11 @@
 	},
 	"sources": {
 		"Basic Solidity/contracts/PeopleStorage.sol": {
-			"keccak256": "0x463fd22cd293030c35bcf3419277edface3513aa4f9f60c1475ac6dafe3c5e1b",
+			"keccak256": "0x6741f7a73d2414ad8f3582e3f8fd2c0c30cc38997c6609a50dfd1b456bc50298",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://efb5c65666688071ece6d75fa10adb0eafdcfc8bb6ff946e9b55e3e61fc3fe74",
-				"dweb:/ipfs/QmTeMrEmuYjAh7jVH1VmoKWAgffMfg65hs5XT81yz3dGv7"
+				"bzz-raw://007ff06c29c491a21e60a651d290cb9cc776d0ff68f324fd1bc5c0bcb19ba430",
+				"dweb:/ipfs/QmRMJQkFds6TFRdxzEqpEYsfBnPb4reKu2rLk6ZhMnckzu"
 			]
 		}
 	},
