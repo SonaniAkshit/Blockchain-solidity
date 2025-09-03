@@ -1,0 +1,21 @@
+# Ignore dependencies and cache
+node_modules/
+.deps/
+.states/
+artifacts/
+
+# Ignore environment and config
+.env
+.env.local
+.env.*.local
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
